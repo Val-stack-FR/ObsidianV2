@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-automatique-automatismes-et-productique-robotique-genie-informatique/","tags":["secteur","systèmes","industrie"]}
+{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-automatique-automatismes-et-productique-robotique-genie-informatique/","tags":["secteur","systèmes","industrie"],"noteIcon":"","created":"2026-02-07T12:44:21.713+01:00","updated":"2026-02-08T01:23:00.301+01:00"}
 ---
 
 # A1 - Automatique, automatismes et productique, robotique, génie informatique

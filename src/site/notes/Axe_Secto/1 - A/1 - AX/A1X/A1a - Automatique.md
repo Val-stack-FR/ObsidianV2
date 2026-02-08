@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-x/a1a-automatique/","tags":["discipline","contrôle","asservissement"]}
+{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-x/a1a-automatique/","tags":["discipline","contrôle","asservissement"],"noteIcon":"","created":"2026-02-07T15:42:59.681+01:00","updated":"2026-02-08T01:23:32.114+01:00"}
 ---
 
 # A1a - Automatique

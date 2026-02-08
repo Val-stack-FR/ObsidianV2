@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/axe-secto/1-a/a-sciences-et-technologies-du-numerique-mathematiques/","tags":["épistémologie","logique","numérique"]}
+{"dg-publish":true,"permalink":"/axe-secto/1-a/a-sciences-et-technologies-du-numerique-mathematiques/","tags":["épistémologie","logique","numérique"],"noteIcon":"","created":"2026-02-07T12:38:00.028+01:00","updated":"2026-02-08T01:22:45.785+01:00"}
 ---
 
 # A - Sciences et technologies du numérique, mathématiques
