@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-x/a1a-x/a1a1-commande-et-asservissement-des-systemes-complexes-analyse-structurelle-theorie-des-graphes/","tags":["concept","graphes","complexité"]}
+{"dg-publish":true,"permalink":"/axe-secto/1-a/1-ax/a1-x/a1a-x/a1a1-commande-et-asservissement-des-systemes-complexes-analyse-structurelle-theorie-des-graphes/","tags":["concept","graphes","complexité"],"dgHomeLink":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"noteIcon":"","created":"2026-02-07T15:43:03.294+01:00","updated":"2026-02-08T15:44:48.849+01:00"}
 ---
 
 
